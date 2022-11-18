@@ -10,3 +10,9 @@
 - Use some of the popular graphing libraries
 - Copy another project but do it accurately enough to match previous conclusion
 - Go more indept 
+
+
+![Star Difference Counts](https://github.com/nycweather/fandango_ratings/blob/main/Graphs%20and%20data/Edited%20Graphs/Screen%20Shot%202022-11-18%20at%209.16.26%20AM.png)
+![All Rating](https://github.com/nycweather/fandango_ratings/blob/main/Graphs%20and%20data/Edited%20Graphs/Screen%20Shot%202022-11-18%20at%209.16.54%20AM.png)
+![Stars vs Rotten Tomatoes](https://github.com/nycweather/fandango_ratings/blob/main/Graphs%20and%20data/Edited%20Graphs/Screen%20Shot%202022-11-18%20at%209.17.21%20AM.png)
+![Fandango Stars Rating vs Actual Rating](https://github.com/nycweather/fandango_ratings/blob/main/Graphs%20and%20data/Edited%20Graphs/Screen%20Shot%202022-11-18%20at%209.18.05%20AM.png)
